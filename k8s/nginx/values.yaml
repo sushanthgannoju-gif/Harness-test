@@ -1,5 +1,5 @@
 # Nginx deployment values
-name: nginx
+name: nginx-V1
 replicas: 1
 
 image:
